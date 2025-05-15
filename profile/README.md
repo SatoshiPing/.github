@@ -6,7 +6,6 @@ Free, instant notifications for health factors, mining rewards, and crypto payme
 
 [![Launch App](https://img.shields.io/badge/Launch_App-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=121212&color=8247E5)](https://www.satoshiping.com)
 [![Updates](https://img.shields.io/badge/Updates-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=000000)](https://x.com/SatoshiPing_)
-[![License](https://img.shields.io/badge/License-32CD32?style=for-the-badge&logo=lock&logoColor=white&labelColor=2F4F4F&color=228B22)](LICENSE)
 
 *“Shipped fast, built for degens.”*  
 
